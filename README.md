@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🍜, Ge_ez</h1>
-<h3 align="center">I'm developer and designer from Ukraine</h3>
+<h3 align="center">I'm developer and designer</h3>
 
 - 💻 About me (I am development, designer from LOD studio, ones i want to create my game!!!)
 
